@@ -1,5 +1,5 @@
 # Mouse Trap Project
-This repository contains all files required to recreate a standard mouse trap. This mouse trap was created as a reverse engineering project during my time at Chaffey College. For this project, a standard mouse trap was disassembled to determine its components and construction. Then, using digital caliphers and a radisu gage, the parts were recreated via Solidworks into models and drawings that are dimensionally accurate.
+This repository contains all files required to recreate a standard mouse trap. This mouse trap was created as a reverse engineering project during my time at Chaffey College. For this project, a standard mouse trap was disassembled to determine its components and construction. Then, using digital caliphers and a radius gage, the parts were recreated via Solidworks into models and drawings that are dimensionally accurate.
 
 The files are organized into two folders; one folder contains the 3D Solidworks file while the other contains drawings in standard Solidworks drawing format as well as in PDF for your convenience. These files can be accessed via their respective folders.
 
