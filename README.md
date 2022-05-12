@@ -1,4 +1,4 @@
-# Draft-41---Mouse-Trap
+# Mouse Trap Project
 All design files for Mouse Trap assembly.
 This repository includes all files files related to 
 
