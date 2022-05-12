@@ -1,11 +1,7 @@
 # Mouse Trap Project
-All design files for Mouse Trap assembly.
-This repository includes all files files related to 
+This repository contains all files required to recreate a standard mouse trap. This mouse trap was created as a reverse engineering project during my time at Chaffey College. For this project, a standard mouse trap was disassembled to determine its components and construction. Then, using digital caliphers and a radisu gage, the parts were recreated via Solidworks into models and drawings that are dimensionally accurate.
 
-This repository is divided into three sections: the SolidWorks model, the .STL files used by 3D printers, and the drawings for each of the parts.
+The files are organized into two folders; one folder contains the 3D Solidworks file while the other contains drawings in standard Solidworks drawing format as well as in PDF for your convenience. These files can be accessed via their respective folders.
 
-To open the SolidWorks model: download the repository, navigate to the 3D Model Files - Solidworks folder, and open the LCOA-1.SLDASM file. For reference, all part numbers are described in the PN file located in the root folder.
+These files are availible to the public for educational purposes. If there are any comments, and/or questions regarding these files, please feel free to contact me via my website: https://longpd.weebly.com/
 
-To open the .STL files: download the repository and navigate to the 3D Printer Files folder.
-
-To open the drawing files: download the repository, navigate to the Drawing Files folder, and then to the PDF folder. PDF versions of each drawing is located here.
